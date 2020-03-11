@@ -34,7 +34,11 @@
   [& args]
   (def failed-protagonist-names
     ["Larry Potter" "Doreen the Explorer" "The Incredible Bulk"])
-  failed-protagonist-names)
+  failed-protagonist-names
+  (def name "Chewbacca")
+  (str "\"ughghghhghghghhghghhg\" - " name))
+
+
   
   
   
